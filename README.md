@@ -10,8 +10,9 @@ To find the IPv4 address for each of the pc: run cmd > type in "ipconfig" > sear
 Run the same program on both of the computers.
 
 Assuming (for your own PCs, find the IPv4 in cmd):
-PC-A: 192.168.0.169:5000
-PC-B: 192.168.0.105:5000
+- PC-A: 192.168.0.169:5000
+- PC-B: 192.168.0.105:5000
+
 (port 5000 is set by the program)
 
 1. after running the program, open up your browser
